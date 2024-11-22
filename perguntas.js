@@ -1,19 +1,19 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'BIOLOGIA',
+    'Como as plantas realizam a fotossíntese?',
+    'As plantas convertem luz solar, água e CO₂ em glicose e oxigênio através da fotossíntese. Isso ocorre nos cloroplastos das células das folhas.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'BIOLOGIA',
+    'Qual a diferença entre mitose e meiose?',
+    'A mitose gera duas células idênticas com o mesmo número de cromossomos, enquanto a meiose gera quatro células com metade dos cromossomos, importantes para a reprodução sexual.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'BIOLOGIA',
+    'O que é a teoria da evolução de Darwin?',
+    'Darwin propôs que as espécies evoluem através da seleção natural, onde os organismos mais adaptados ao ambiente sobrevivem e se reproduzem, transmitindo suas características.'
 )
 
 criaCartao(
