@@ -1,11 +1,11 @@
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --text-color: #000000;
+    --card-front-color: #9b67b3;
+    --card-back-color: #e0d4d4;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('img/fundo\ rosa\ 2.png');
     font-family: Bai Jamjuree;
 }
 
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('img/bg-mobile.webp'), no-repeat cover;
+        background: url('img/foto\ 2.avif'), no-repeat cover;
     }
 
     .cartao {
